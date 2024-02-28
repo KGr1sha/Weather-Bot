@@ -1,5 +1,5 @@
 # weather-bot
-
+https://t.me/fakin_weather_bot
 ### Умный сервис прогноза погоды.
 
 ## Описание сервиса
