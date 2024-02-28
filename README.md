@@ -27,13 +27,24 @@
 ```
 TELEGRAM_API_TOKEN=...
 WEATHER_SERVICE_API_KEY=...
-
 ```
 
 Для запуска необходим Python версии 3.7 и выше.
 
-Установить зависимости:
+Создать и активировать виртуальное окружение(опционально):
+```python
+python -m venv venv
+```
+Windows:
+```python
+venv/scripts/activate
+```
+Unix:
+```python
+venv/bin/activate
+```
 
+Установить зависимости:
 ```python
 pip install -r requirements.txt
 ```
