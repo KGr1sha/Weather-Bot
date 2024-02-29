@@ -19,8 +19,6 @@ https://t.me/fakin_weather_bot
 
 ## Как запустить
 
-Желательно запускать в UNIX-like системе (Linux или Mac OS).
-
 Добавить в переменные окружения ключ API Telegram (получается у [@BotFather](https://telegram.me/botfather) при создании нового бота командой /newbot) и ключ API [OpenWeatherMap](https://openweathermap.org/). 
 
 Создать файл с переменными окружения (.env):
